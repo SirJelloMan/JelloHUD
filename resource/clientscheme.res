@@ -3015,9 +3015,77 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
+		LinLibertineaZ12
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		LinLibertineaZ16
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+ 		LinLibertineaZ24
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		LinLibertineaZ32
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		LinLibertineaZ36
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		LinLibertineaZ42
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		LinLibertineaZ48
+		{
+			"1"
+			{
+				"name"		"Linux Libertine Slanted Semibold"
+				"tall"		"48"
+				"antialias" "1"
+			}
 		}
 	}
-
+	
+	
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5827,5 +5895,22 @@ Scheme
 				"range" "0x0000 0x007E"
 			}
 		}
+		"8"
+		{
+		"font"	"resource/fonts/LinLibertine_aZL.ttf"
+		"name" "Linux Libertine Slanted Semibold"
+		}
+		"9"
+		{
+		"font"	"resource/fonts/LinLibertine_RZI.ttf"
+		"name" "Linux Libertine Semibold Italic"
+		}
+		"10"
+		{
+		"font"	"resource/fonts/LinLibertine_DR.ttf"
+		"name" "Linux Libertine Display"
+		}
+		
 	}
+
 }
