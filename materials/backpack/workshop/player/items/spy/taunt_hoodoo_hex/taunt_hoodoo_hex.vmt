@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/spy/taunt_hoodoo_hex/taunt_hoodoo_hex"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+}

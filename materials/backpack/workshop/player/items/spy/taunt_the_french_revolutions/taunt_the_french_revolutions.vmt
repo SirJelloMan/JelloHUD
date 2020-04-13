@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/spy/taunt_the_french_revolutions/taunt_the_french_revolutions"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/spy/taunt_art_of_war/taunt_art_of_war"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+}

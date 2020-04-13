@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"backpack/workshop/player/items/spy/french_revolutions/french_revolutions_large"
+	"$translucent"		"1"
+}
